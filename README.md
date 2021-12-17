@@ -2,6 +2,41 @@
 <h2 align="center">👋Hello World, I am Gautam Kumar</h2>
 <p align="center">B.Tech EE @ <strong>IIT Indore</strong></p>
 <p align="center">MERN Stack Developer</p>
+<hr>
+<p align="center">My Data Structures and Algorithms Coding Platforms</p>
+<p align="center">
+	<code>
+		<a style="text-decoration: none" href="https://leetcode.com/gk2002/" target="_blank">
+			<img
+				src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+				alt="html5"
+				width="40"
+				height="40"
+			/>
+		</a>
+	</code>
+	<code>
+		<a style="text-decoration: none" href="https://auth.geeksforgeeks.org/user/gautamkumarsingh212/practice/" target="_blank">
+			<img
+				src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png"
+				alt="html5"
+				width="40"
+				height="40"
+			/>
+		</a>
+	</code>
+	<code>
+		<a style="text-decoration: none" href="https://www.codechef.com/users/bsg123" target="_blank">
+			<img
+				src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4"
+				alt="html5"
+				width="40"
+				height="40"
+			/>
+		</a>
+	</code>
+</p>
+
 <h2 align="center">If You Want To Collaborate, I'm Availabe On</h2>
 <p align="center">
 	<code>
