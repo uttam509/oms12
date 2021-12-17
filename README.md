@@ -1,5 +1,5 @@
 
-<h2 align="center">👋Hello World, I am Gautam Kumar</h2>
+<h2 align="center">:pray:Namaste, I am Gautam Kumar</h2>
 <p align="center">B.Tech EE @ <strong>IIT Indore</strong></p>
 <p align="center">MERN Stack Developer</p>
 <hr>
