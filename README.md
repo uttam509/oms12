@@ -145,19 +145,19 @@
 <br />
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api?username=oms12&show_icons=true&locale=en&theme=radical&count_private=true"
+		src="https://github-readme-stats.vercel.app/api?username=uttam509&show_icons=true&locale=en&theme=radical&count_private=true"
 		alt="Gautam kumar"
 	/>
 </p>
 <p align="center">
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=oms12&theme=tokyonight"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=uttam509&theme=tokyonight"
 		alt="Gautam kumar"
 	/>
 </p>
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=oms12&show_icons=true&locale=en&layout=compact&theme=radical"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=uttam509&show_icons=true&locale=en&layout=compact&theme=radical"
 		alt="Gautam Kumar"
 	/>
 </p>
